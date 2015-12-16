@@ -1,6 +1,6 @@
 # SLiPP 스터디 - MSA 소개
 
-* [2015년을 보내면서 - SLiPP 스터디](http://onoffmix.com/event/58391)에서 발표한 MSA 소개
+* [2015년을 보내면서 - SLiPP 스터디](http://onoffmix.com/event/58391)에서 [발표한 MSA 소개](http://www.slideshare.net/ncrash/slipp-msa)
 * 현재 개발모습과 마이크로서비스 아키텍처가 각광을 받게된 이유에 대한 소개
 * 나무가 아닌 숲을 보는 관점에서 MSA 소개
 
